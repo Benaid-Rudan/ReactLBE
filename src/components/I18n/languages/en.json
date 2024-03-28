@@ -1,0 +1,16 @@
+{
+  "EnterEmail": "Enter your email here",
+  "EnterPassword": "Enter your password here",
+  "LoginButton": "Login",
+  "FIRST_NAME": "First name",
+  "LAST_NAME": "Last name",
+  "EMAIL": "E-mail",
+  "PASSWORD": "Password",
+  "PASSWORD_IS_REQUIRED": "Password is required field.",
+  "PASSWORD_MIN_LENGTH": "Minimum password length is {{length}} characters.",
+  "SIGN_UP": "Sign up",
+  "PROFILE_PHOTO": "Profile photo",
+  "ERROR_SIGNING_UP": "There was an error trying to sign you up. Please try again later."
+
+
+}

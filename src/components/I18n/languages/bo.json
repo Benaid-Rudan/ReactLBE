@@ -1,0 +1,14 @@
+{
+  "EnterEmail": "Unesite Vaš email",
+  "EnterPassword": "Unesite Vašu šifru",
+  "LoginButton": "Prijava",
+  "FIRST_NAME": "Ime",
+  "LAST_NAME": "Prezime",
+  "EMAIL": "E-mail adresa",
+  "PASSWORD": "Šifra",
+  "PASSWORD_IS_REQUIRED": "Šifra je obavezna",
+  "PASSWORD_MIN_LENGTH": "Šifra mora sadržavati minimalno 8 karaktera",
+  "SIGN_UP": "Registracija",
+  "PROFILE_PHOTO": "Profilna slika",
+  "ERROR_SIGNING_UP": "Greška prilikom Registracije. Pokušajte ponovo."
+}
