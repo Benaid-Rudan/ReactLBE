@@ -1,3 +1,7 @@
+#ReactLBE
+
+Actually, this project was preparation for Hackathon that my colleagues and I were participating and we prepared some basic stuff.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
